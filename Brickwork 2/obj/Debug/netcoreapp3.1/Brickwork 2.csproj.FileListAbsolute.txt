@@ -1,0 +1,13 @@
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\bin\Debug\netcoreapp3.1\Brickwork 2.exe
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\bin\Debug\netcoreapp3.1\Brickwork 2.deps.json
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\bin\Debug\netcoreapp3.1\Brickwork 2.runtimeconfig.json
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\bin\Debug\netcoreapp3.1\Brickwork 2.runtimeconfig.dev.json
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\bin\Debug\netcoreapp3.1\Brickwork 2.dll
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\bin\Debug\netcoreapp3.1\Brickwork 2.pdb
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.csprojAssemblyReference.cache
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.AssemblyInfoInputs.cache
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.AssemblyInfo.cs
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.csproj.CoreCompileInputs.cache
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.dll
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.pdb
+C:\Users\svetoslav12345678198\source\repos\Mentormate\Brickwork 2\obj\Debug\netcoreapp3.1\Brickwork 2.genruntimeconfig.cache
